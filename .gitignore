@@ -1,3 +1,5 @@
 *.pdf
 *.html
 __pycache__
+
+lab1-LeNet/data
